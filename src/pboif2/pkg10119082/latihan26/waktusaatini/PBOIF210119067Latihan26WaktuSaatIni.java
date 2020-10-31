@@ -10,7 +10,7 @@ import java.text.SimpleDateFormat;
 
 /**
  *
- * @author Zainul Rifqi
+ * @author Danhago
  * NAMA     : Andreas Danhago P.I
  * KELAS    : IF2
  * NIM      : 10119082
